@@ -1,1 +1,1 @@
-# Day 8 – Bash scripting notes
+# Day 8 – Bash Scripting
